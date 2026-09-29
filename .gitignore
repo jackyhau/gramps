@@ -39,3 +39,6 @@ ehthumbs.db
 
 # Visual Studio Code
 .vscode/*
+
+# Trae
+.trae/
